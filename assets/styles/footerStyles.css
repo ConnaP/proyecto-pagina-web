@@ -56,3 +56,13 @@ footer .icon-redes-sociales {
 .comun a:hover {
     color: rgb(55, 191, 215);
 }
+
+@media only screen and (max-width: 1344px) {
+    .footer {
+        gap: 25px;
+    }
+
+    footer .comun {
+        margin: 0;
+    }
+}
