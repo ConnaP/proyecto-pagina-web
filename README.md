@@ -5,7 +5,7 @@
 
 #### Secciones:
 	1. Header
-	2. Jumbootrom
+	2. Jumbotrom
 	3. Catálogo
 	4. Adicionales
 
