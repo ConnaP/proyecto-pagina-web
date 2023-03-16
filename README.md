@@ -19,5 +19,12 @@
 #### URL proyecto
 [Aquí](https://connap.github.io/proyecto-pagina-web)
 
+#### Mockup's
+##### Desktop
+![plot](./mockups/mockup-desktop.png)
+
+##### Mobile
+![plot](./mockups/mockup-mobile.png)
+
 #### Agradecimientos  
 > Bootcamp UDD
