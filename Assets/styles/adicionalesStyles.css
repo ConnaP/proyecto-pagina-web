@@ -1,36 +1,35 @@
 .experiencia-compras {
-    margin-top: 50px;
+    align-items: center;
     display: flex;
     flex-direction: column;
-    align-items: center;
     margin-bottom: 30px;
+    margin-top: 50px;
 }
 
 .caja-experiencias {
-    width: 93%;
-    padding: 30px;
+    align-items: center;
     background-color:  rgb(173, 235, 235);
-    border: 1px solid rgb(147, 231, 231) ;
     border-radius: 25px;
+    border: 1px solid rgb(147, 231, 231) ;
     display: flex;
     flex-direction: row;
-    align-items: center;
-    margin-bottom: 20px;
     flex-wrap: wrap;
-    
+    margin-bottom: 20px;
+    padding: 30px;
+    width: 93%;
 }
 
 .img-opinion {
-    width: 150px;
     height: 150px;
     padding-left: 10px;
+    width: 150px;
 }
 
 .caja-experiencias p {
     font-size: 15px;
     line-height: 15px;
-    padding: 10px;
     padding-left: 30px;
+    padding: 10px;
 }
 
 .caja-experiencias .star {
@@ -39,15 +38,15 @@
 
 @media only screen and (max-width: 425px) {
     .caja-experiencias {
-        padding: 10px;
         display:flex;
-        justify-content: center
+        justify-content: center;
+        padding: 10px;
     }
 
     .img-opinion {
         border-radius: 20px;
-        padding: 0;
         margin-top: 10px;
+        padding: 0;
     }
 
     .caja-experiencias .star {

@@ -3,10 +3,10 @@
 }
 
 .container-form {
-    margin: 5% 30%;
     background-color: #fff;
-    padding: 30px;
     border-radius: 15px;
+    margin: 5% 30%;
+    padding: 30px;
 }
 
 .titulo {
