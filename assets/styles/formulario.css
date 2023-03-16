@@ -1,0 +1,27 @@
+.body {
+    background-color: rgb(147, 231, 231);
+}
+
+.container-form {
+    margin: 5% 30%;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+.titulo {
+    margin-bottom: 20px;
+}
+
+#btn-color {
+    background-color: rgb(173, 239, 239);
+    color: #fff;
+}
+
+#btn-color:hover {
+    background-color: rgb(147, 231, 231);
+}
+
+input {
+    border:1px solid rgb(147, 231, 231) !important;
+}
